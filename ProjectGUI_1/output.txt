@@ -1,0 +1,13 @@
+0. Person{name=Dima, surname=Grushevskyy, pesel =1235689}
+
+1. Person{name=John, surname=Right, pesel =123123567}
+Appartments(A1) With volume210.0| Owner is: Person{name=John, surname=Right, pesel =123123567}| People lives: Only owner lives there| Date start/endMon Apr 26 09:16:51 CEST 2021/Wed May 26 09:16:51 CEST 2021
+
+2. Person{name=Abraham, surname=Lincoln, pesel =45678994}
+Appartments(A7) With volume30.0| Owner is: Person{name=Abraham, surname=Lincoln, pesel =45678994}| People lives: Only owner lives there| Date start/endTue Apr 27 09:16:51 CEST 2021/Thu May 27 09:16:51 CEST 2021
+
+3. Person{name=Johny, surname=Depp, pesel =1452634789}
+Appartments(A4) With volume720.0| Owner is: Person{name=Johny, surname=Depp, pesel =1452634789}| People lives: Only owner lives there| Date start/endMon Apr 26 09:16:51 CEST 2021/Wed May 26 09:16:51 CEST 2021
+
+4. Person{name=Mister, surname=X, pesel =1452634789}
+
